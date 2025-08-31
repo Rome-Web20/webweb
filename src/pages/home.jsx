@@ -7,7 +7,7 @@ function Home(){
    return(
       <>
          <div className=" bg-gray-950">
-            <div className=" min-h-[650px] max-w-7xl mx-auto px-50 py-50 ">
+            <div className=" min-h-[650px] max-w-7xl mx-auto py-50 ">
                
                <div className="flex flex-col items-center justify-center lg:flex-1">
                   <h1 className="font-bold text-white">TRY HOME PAGE!</h1>
